@@ -1,0 +1,15 @@
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# 仮想環境（venvなど）
+venv/
+env/
+
+# エディタやOSの不要ファイル
+.DS_Store
+*.swp
+
+# 環境設定ファイル（必要に応じて）
+.env
+*.log
